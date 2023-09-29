@@ -1,3 +1,4 @@
 # demo-repo1
-demo for github 
-author sunny
+
+demo for github
+author sunny joel
